@@ -1,5 +1,5 @@
 import { React } from "react";
-import { useRouteMatch, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "../css/MatchDetailCard.scss";
 
 export const MatchDetailCard = ({ match, teamName }) => {
